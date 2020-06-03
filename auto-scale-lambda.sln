@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autoscale-lambda", "..\autoscale-lambda\autoscale-lambda.csproj", "{BB7667A7-27B4-4142-B6A3-AA40866FBDB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB7667A7-27B4-4142-B6A3-AA40866FBDB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7667A7-27B4-4142-B6A3-AA40866FBDB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7667A7-27B4-4142-B6A3-AA40866FBDB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7667A7-27B4-4142-B6A3-AA40866FBDB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45D3839F-9F71-438B-AB96-A2220BE35783}
+	EndGlobalSection
+EndGlobal
